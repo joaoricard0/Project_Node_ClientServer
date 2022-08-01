@@ -1,0 +1,17 @@
+Install Node
+Open git bash on the directory Project_Node_ClientServer\Node\Restful
+npm init
+npm install express --save
+npm install nodemon -g
+npm install consign --save         --save = put in general project dependency
+npm install body-parser --save
+npm install nedb --save
+npm install express-validator --save
+
+nodemon masterIndex <- Start Server 1
+
+Open git bash on the directory Project_Node_ClientServer\client-server
+
+npm start <- Start Server 2
+
+On browser digit localhost:3000
